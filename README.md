@@ -1,12 +1,14 @@
 # TomcatFilterInject
 
-@desc1: 测试tomcat中如何动态添加filter
+@desc-1: 测试tomcat中如何动态添加filter
 
-@desc2: Tomcat Filter动态注入
+@desc-2: Tomcat Filter动态注入
 
-@page: [https://www.cnblogs.com/lxmwb/p/13235572.html](https://www.cnblogs.com/lxmwb/p/13235572.html)
+@blog-page: [https://www.cnblogs.com/lxmwb/p/13235572.html](https://www.cnblogs.com/lxmwb/p/13235572.html)
 
-@test：[TEST.md](https://github.com/cnsimo/TomcatFilterInject/blob/master/TEST.md)
+@test-doc：[TEST.md](https://github.com/cnsimo/TomcatFilterInject/blob/master/TEST.md)
+
+@test-by: REInject
 
 ## 前言
 
