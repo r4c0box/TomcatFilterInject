@@ -159,10 +159,11 @@
                 }
             }
         }
+        out.println("Add Filter Success.");
     } catch (Exception e) {
+        out.println("Add Filter Fail.");
         e.printStackTrace();
     }
-    out.println("Add Filter Success.");
 %>
 </body>
 </html>
