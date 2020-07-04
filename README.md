@@ -6,6 +6,8 @@
 
 @page: [https://www.cnblogs.com/lxmwb/p/13235572.html](https://www.cnblogs.com/lxmwb/p/13235572.html)
 
+@test：[TEST.md](https://github.com/cnsimo/TomcatFilterInject/blob/master/TEST.md)
+
 ## 前言
 
 最近，看到好多不错的关于“无文件Webshell”的文章，对其中利用上下文动态的注入`Filter`的技术做了一下简单验证，写一下测试过程总结，不依赖任何框架，仅想学习一下tomcat的filter。
